@@ -1,4 +1,10 @@
- iframe{
+.iframe-container {
+ text-align:
+  center;
+ width:110%;
+}
+
+iframe{
   display: block;
   margin-left: auto;
   margin-right: auto;
